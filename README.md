@@ -59,10 +59,10 @@ DocuLens solves this by using **AI-based semantic search** to retrieve the most 
 ---
 
 ## 🧪 Example Use Cases
-Searching through study notes
-Finding specific topics in textbooks
-Quickly locating concepts across multiple PDFs
-Academic and research document exploration
+- Searching through study notes
+- Finding specific topics in textbooks
+- Quickly locating concepts across multiple PDFs
+- Academic and research document exploration
 
 ---
 
@@ -73,7 +73,7 @@ Academic and research document exploration
 ---
 
 ## 🚀 Future Improvements
-💬 Chat with PDFs (LLM integration)
-⚡ Faster search using FAISS / vector DB
-📊 Better ranking & summarization
-🌐 Web deployment
+- 💬 Chat with PDFs (LLM integration)
+- ⚡ Faster search using FAISS / vector DB
+- 📊 Better ranking & summarization
+- 🌐 Web deployment
